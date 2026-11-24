@@ -1,6 +1,6 @@
 {
   "gifts":[
     { "id": "261124-1", "to": "UGCB-QLLZ", "gems": 3300, "msg": "설치 감사선물", "until": "2026-12-31" },
-    { "id": "261124-1", "to": "UGCB-QLLZ", "noads": true, "vip": true, "msg": "설치 감사선물", "until": "2026-12-31" },
+    { "id": "261124-2", "to": "UGCB-QLLZ", "noads": true, "vip": true, "msg": "설치 감사선물", "until": "2026-12-31" },
   ]
 }
