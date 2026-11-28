@@ -1,8 +1,5 @@
 {
   "gifts":[
-    { "id": "261124-1", "to": "UGCB-QLLZ", "gems": 3300, "msg": "설치 감사선물", "until": "2026-12-31" },
-    { "id": "261124-2", "to": "UGCB-QLLZ", "noads": true, "vip": true, "msg": "설치 감사선물", "until": "2026-12-31" },
-    { "id": "261124-3", "to": "VBDF-GPVE", "gems": 3300, "noads": true, "vip": true, "msg": "설치 감사선물", "until": "2026-12-31" },
-    { "id": "261124-4", "to": "X6AR-RYR9", "gems": 3300, "noads": true, "vip": true, "msg": "설치 감사선물", "until": "2026-12-31" }
+    { "id": "WELCOME-01", "to": "ALL", "gems": 1500, "msg": "설치 감사선물", "until": "2026-12-31" }
   ]
 }
